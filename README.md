@@ -3,11 +3,11 @@ Develop a basic image encryption tool utilizing pixel manipulation. Users can en
 
 # For Windows
 
-REQUIREMENT
+#REQUIREMENT
 
 ```pip install pillow```
 
-HOW TO USE...
+#HOW TO USE...
 
 Step 1: Download the zip file and extract it.
 
