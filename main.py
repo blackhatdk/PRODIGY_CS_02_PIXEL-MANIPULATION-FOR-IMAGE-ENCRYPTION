@@ -43,7 +43,7 @@ def decrypt_image(encrypted_image_path, key):
     print("Image decrypted and saved as decrypted_image.png")
 
 # Example usage
-image_path = "C:/Users/Dhilipan/Downloads/aass.jpg"  # Replace with the path to your image
+image_path = "C:/Users/Dhilipan/Downloads/Wallaper.jpg"  # Replace with the path to your image
 encryption_key = 42
 
 # Encrypt the image
