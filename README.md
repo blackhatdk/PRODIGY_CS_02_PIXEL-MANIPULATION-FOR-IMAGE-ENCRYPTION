@@ -7,14 +7,16 @@ Pixel manipulation for image encryption involves the process of modifying the RG
 The information provided here is for educational purposes only and should not be construed as legal advice. Any actions taken based on this information are at the individual's own risk. We make no guarantees regarding the accuracy or suitability of the content. Additionally, users should be aware of legal restrictions surrounding encryption techniques, and we do not endorse any unlawful use of such methods. It is advisable to seek legal counsel for specific legal guidance.
 
 # REQUIREMENT
-
-I recommend running the code in a Python IDE such as PyCharm or simply using Python.
-
-```pip install pillow```
+To install the Package
+```
+pip install pillow
+```
 
 # For Windows
 
 ### HOW TO USE...
+
+I recommend running the code in a Python IDE such as PyCharm or simply using Python.
 
 Step 1: Download the zip file and extract it.
 
@@ -26,7 +28,8 @@ Step 4: Before "Execute" the program and  make sure import your image path.
 
 Step 5: Run the program.
 
-### For Example 
+### Output of Image's
+
 Figure 1 :  Represent to Execute the program and show the original directory of encrypted and decrypted Image.
 
 ![Screenshot 2024-03-21 005340](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/95947d0b-8c76-4595-aa91-c2d55c8962d6)
@@ -60,7 +63,7 @@ sudo nano main.py
 ```
 
 
-### For Example 
+### Output of Image's
 
 This Figure Represents to Execute a program and Output of images
 
