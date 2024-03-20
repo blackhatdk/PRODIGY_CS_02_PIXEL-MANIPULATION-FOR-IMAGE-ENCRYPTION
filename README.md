@@ -70,5 +70,5 @@ This Figure Represents to Execute a program and Output of images
 ![Screenshot 2024-03-21 013157](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/ba22f920-cdf0-4fa6-83df-a675c0b127e0)
 
 
-# Facing Issue ??
+# Contact
 If you're facing any issue with the usage of script, drop Mail to bktech1314@gmail.com .
