@@ -1,4 +1,5 @@
-# PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION
+# PIXEL MANIPULATION FOR IMAGE ENCRYPTION
+
 Pixel manipulation for image encryption involves the process of modifying the RGB values of each pixel in an image using cryptographic algorithms or secret keys to render the image unreadable without proper decryption. During encryption, the RGB values of pixels are altered in a controlled manner to obscure the image's content while maintaining its visual appearance. Decryption reverses this process, restoring the original image by applying the inverse operations with the correct decryption key or algorithm. While pixel manipulation serves as a fundamental technique for image encryption, it's important to recognize its limitations in providing robust security against sophisticated attacks, making it more suitable for educational or basic encryption purposes within larger security frameworks.
 
 # Legal Disclamier 
@@ -7,6 +8,7 @@ The information provided here is for educational purposes only and should not be
 
 # REQUIREMENT
 I Recomended to use Python IDE like Python , PythonCharm, etc..
+
 ```pip install pillow```
 
 # For Windows
@@ -19,20 +21,27 @@ Step 2: Run the "main.py" on Python IDE.
 
 Step 3: Setup the python environment .
 
-Step 4: before the program. make sure import your image path
+Step 4: Before "Execute" the program and  make sure import your image path.
 
-Step 5: run the program
+Step 5: Run the program.
 
 ### For Example 
+Figure 1 :  Represent to Execute the program and show the original directory of encrypted and decrypted Image.
 
 ![Screenshot 2024-03-21 005340](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/95947d0b-8c76-4595-aa91-c2d55c8962d6)
+
+
+Figure 2 :  Represent to encrypted and decrypted Image.
+
+![Screenshot 2024-03-21 005301](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/a910cbed-a994-43d2-a00f-c550c8fce5d4)
+
 
 
 # For Linux
 
 ### HOW TO USE
 
-Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script.|| Before the "execute" program and make sure import your image path.
+Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script.|| Before "execute" the program and make sure import your image path.
 
 ```bash
 sudo git clone https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION.git
@@ -40,3 +49,6 @@ cd PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION
 sudo pip install pillow
 python main.py
 ```
+
+# Facing Issue ??
+If you're facing any issue with the usage of script, drop Mail to bktech1314@gmail.com .
