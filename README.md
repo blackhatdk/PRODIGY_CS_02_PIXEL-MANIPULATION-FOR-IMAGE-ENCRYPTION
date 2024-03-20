@@ -28,7 +28,7 @@ Step 4: Before "Execute" the program and  make sure import your image path.
 
 Step 5: Run the program.
 
-### Output of Image's
+### Output 
 
 Figure 1 :  Represent to Execute the program and show the original directory of encrypted and decrypted Image.
 
@@ -63,7 +63,7 @@ sudo nano main.py
 ```
 
 
-### Output of Image's
+### Output 
 
 This Figure Represents to Execute a program and Output of images
 
