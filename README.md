@@ -7,7 +7,8 @@ Pixel manipulation for image encryption involves the process of modifying the RG
 The information provided here is for educational purposes only and should not be construed as legal advice. Any actions taken based on this information are at the individual's own risk. We make no guarantees regarding the accuracy or suitability of the content. Additionally, users should be aware of legal restrictions surrounding encryption techniques, and we do not endorse any unlawful use of such methods. It is advisable to seek legal counsel for specific legal guidance.
 
 # REQUIREMENT
-I Recomended to use Python IDE like Python , PythonCharm, etc..
+
+I recommended to run as python IDE like Pythoncharm, python, etc..
 
 ```pip install pillow```
 
