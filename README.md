@@ -51,7 +51,7 @@ sudo pip install pillow
 python main.py
 ```
 
-# How to modify the image path in python file. 
+### How to modify the image path in python file. 
 
 ```bash
 cd PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION
