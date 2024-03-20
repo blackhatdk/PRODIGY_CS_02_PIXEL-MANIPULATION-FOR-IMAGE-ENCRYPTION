@@ -8,7 +8,7 @@ The information provided here is for educational purposes only and should not be
 
 # REQUIREMENT
 
-I recommended to run as python IDE like Pythoncharm, python, etc..
+I recommend running the code in a Python IDE such as PyCharm or simply using Python.
 
 ```pip install pillow```
 
