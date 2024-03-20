@@ -47,7 +47,6 @@ Figure 2 :  Represent to encrypted and decrypted Image.
 
 Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script.|| Before "execute" the program and make sure import your image path.
 
-
 ```bash
 sudo git clone https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION.git
 cd PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION
